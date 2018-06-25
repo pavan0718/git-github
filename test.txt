@@ -1,0 +1,6 @@
+Boxes
+- `vagrant box list`              -- see a list of all installed boxes on your computer
+- `vagrant box add <name> <url>`  -- download a box image to your computer
+- `vagrant box outdated`          -- check for updates vagrant box update
+- `vagrant boxes remove <name>`   -- deletes a box from the machine
+- `vagrant package`               -- packages a running virtualbox env in a reusable box
